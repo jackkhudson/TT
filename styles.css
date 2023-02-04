@@ -1,5 +1,6 @@
 body{
     margin: 0%;
     background-color: pink;
-    text-decoration: line-through;
+    text-decoration: dotted;
+    text-align: center;
 }
